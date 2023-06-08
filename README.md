@@ -1,1 +1,1 @@
-# go-invader
+# rust-invader
